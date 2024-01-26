@@ -257,6 +257,7 @@ nav {
     rgba(249, 105, 14, 1) 0%,
     rgba(102, 51, 153, 1) 100%
   );
+  background-clip:text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -405,6 +406,7 @@ hr {
     rgba(249, 105, 14, 1) 0%,
     rgba(102, 51, 153, 1) 100%
   );
+  background-clip:text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -450,6 +452,7 @@ hr {
     rgba(249, 105, 14, 1) 0%,
     rgba(102, 51, 153, 1) 100%
   );
+  background-clip:text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
